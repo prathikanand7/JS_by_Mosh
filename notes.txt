@@ -1,0 +1,13 @@
+
+use let for all variable - they cannot be a reserved keyword. 
+
+They should be meaningful.
+Cannot start with a number.
+Cannot contain any space or hypen(-)
+They are case-sensitive
+use camel case - let firstName
+
+Variale types: primitives / Value types - string, bool, int, undefined, null .
+Variable types: reference types - objects, arrays and functions
+
+Static languages Dynamic languages - ex. JavaScript
