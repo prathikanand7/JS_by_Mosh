@@ -11,3 +11,10 @@ Variale types: primitives / Value types - string, bool, int, undefined, null .
 Variable types: reference types - objects, arrays and functions
 
 Static languages Dynamic languages - ex. JavaScript
+
+
+object is like a real life thing. these are properties of a thing.
+
+Arrays in JS is treated like objects
+
+Functions are fundamental building blocks in JS
